@@ -1,0 +1,16 @@
+body {
+	margin-top: 5%;
+	font-family: 'Bookman Old Style', Georiga, serif;
+	backgroun-color:rgb(197, 247, 252);
+	font-size: 1em;
+}
+
+h1 {
+	font-size: 1.5em;
+	font-family:'Bookman Old Style', Georiga, serif;
+}
+
+#email_input {
+	padding: 5px;
+}
+	
